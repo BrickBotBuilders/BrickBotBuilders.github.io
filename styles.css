@@ -87,7 +87,8 @@ img {
 }
 
 .smallimg {
-  width:600px;
+  width:50%;
+  height:auto;
 }
 .small {
   font-size: 11px;
