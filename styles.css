@@ -82,8 +82,12 @@ li a:hover:not(.active) {
 
 
 img {
-  width: 870px;
+  width: 300px;
   border-radius:25px;
+}
+
+.smallimg {
+  width:1080px;
 }
 .small {
   font-size: 11px;
